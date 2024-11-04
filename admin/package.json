@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "homepage":"./"
+    "preview": "vite preview"
   },
   "dependencies": {
     "axios": "^1.7.7",
