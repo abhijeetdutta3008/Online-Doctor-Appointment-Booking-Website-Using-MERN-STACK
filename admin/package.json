@@ -8,7 +8,6 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "main": "index.js",
     "homepage":"./"
   },
   "dependencies": {
